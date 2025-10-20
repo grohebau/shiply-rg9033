@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Kralja Tomislava 28",
+      "postal_code": "21223",
+      "city": "Okrug Gornji",
+      "country": "Kroatien",
+      "lat": "43.504517150927974",
+      "lng": "16.2627042860573"
     }
   }
 }
