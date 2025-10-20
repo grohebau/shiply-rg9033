@@ -1,0 +1,47 @@
+{
+  "S94126": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Pestalozzistraße 12, 27474 Cuxhaven, Deutschland",
+    "receiver": "Ante Rozga, Kralja Tomislava 28, 21223 Okrug Gornji, Kroatien",
+    "price": "4.500 €",
+    "description": "Hersteller: Honda<br>Typ: NC 750<br>Fahrgestelnummer: JH2RH09B8MK001791<br>Erstzulassung: 21/03/2018<br>KM laut Vorbesitzer: 18.107 km<br>Leistung: 43 kW<br>Hubraum: 745 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Ante Rozga<br>Kralja Tomislava 28<br>21223 Okrug Gornji<br>Kroatien<br>Telefon: +385 918858854",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "20-10-2025",
+    "deliveryDate": "24-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
